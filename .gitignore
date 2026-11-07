@@ -1,0 +1,5 @@
+node_modules/
+*.zip
+*.sha256
+.env*
+.publishing-private/

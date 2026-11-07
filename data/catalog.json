@@ -1,0 +1,1252 @@
+{
+  "schemaVersion": 1,
+  "id": "dracima-mahjong",
+  "moduleId": "dracima-mahjong",
+  "version": "0.1.0",
+  "assetBase": "module-root",
+  "aiGenerated": true,
+  "designs": [
+    {
+      "id": "bamboo-1",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 1,
+      "kind": "number",
+      "name": "Bambus 1",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-2",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 2,
+      "kind": "number",
+      "name": "Bambus 2",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-3",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 3,
+      "kind": "number",
+      "name": "Bambus 3",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-4",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 4,
+      "kind": "number",
+      "name": "Bambus 4",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-5",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 5,
+      "kind": "number",
+      "name": "Bambus 5",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-6",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 6,
+      "kind": "number",
+      "name": "Bambus 6",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-7",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 7,
+      "kind": "number",
+      "name": "Bambus 7",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-8",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 8,
+      "kind": "number",
+      "name": "Bambus 8",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "bamboo-9",
+      "group": "bamboo",
+      "copies": 4,
+      "rank": 9,
+      "kind": "number",
+      "name": "Bambus 9",
+      "standardSuit": "bamboo"
+    },
+    {
+      "id": "circles-1",
+      "group": "circles",
+      "copies": 4,
+      "rank": 1,
+      "kind": "number",
+      "name": "Kreise 1",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-2",
+      "group": "circles",
+      "copies": 4,
+      "rank": 2,
+      "kind": "number",
+      "name": "Kreise 2",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-3",
+      "group": "circles",
+      "copies": 4,
+      "rank": 3,
+      "kind": "number",
+      "name": "Kreise 3",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-4",
+      "group": "circles",
+      "copies": 4,
+      "rank": 4,
+      "kind": "number",
+      "name": "Kreise 4",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-5",
+      "group": "circles",
+      "copies": 4,
+      "rank": 5,
+      "kind": "number",
+      "name": "Kreise 5",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-6",
+      "group": "circles",
+      "copies": 4,
+      "rank": 6,
+      "kind": "number",
+      "name": "Kreise 6",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-7",
+      "group": "circles",
+      "copies": 4,
+      "rank": 7,
+      "kind": "number",
+      "name": "Kreise 7",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-8",
+      "group": "circles",
+      "copies": 4,
+      "rank": 8,
+      "kind": "number",
+      "name": "Kreise 8",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "circles-9",
+      "group": "circles",
+      "copies": 4,
+      "rank": 9,
+      "kind": "number",
+      "name": "Kreise 9",
+      "standardSuit": "circles"
+    },
+    {
+      "id": "scrolls-1",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 1,
+      "kind": "number",
+      "name": "Schriftrollen 1",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-2",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 2,
+      "kind": "number",
+      "name": "Schriftrollen 2",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-3",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 3,
+      "kind": "number",
+      "name": "Schriftrollen 3",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-4",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 4,
+      "kind": "number",
+      "name": "Schriftrollen 4",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-5",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 5,
+      "kind": "number",
+      "name": "Schriftrollen 5",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-6",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 6,
+      "kind": "number",
+      "name": "Schriftrollen 6",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-7",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 7,
+      "kind": "number",
+      "name": "Schriftrollen 7",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-8",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 8,
+      "kind": "number",
+      "name": "Schriftrollen 8",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "scrolls-9",
+      "group": "scrolls",
+      "copies": 4,
+      "rank": 9,
+      "kind": "number",
+      "name": "Schriftrollen 9",
+      "standardSuit": "characters"
+    },
+    {
+      "id": "wind-north",
+      "group": "honors",
+      "copies": 4,
+      "kind": "wind",
+      "name": "Nordwind"
+    },
+    {
+      "id": "wind-east",
+      "group": "honors",
+      "copies": 4,
+      "kind": "wind",
+      "name": "Ostwind"
+    },
+    {
+      "id": "wind-south",
+      "group": "honors",
+      "copies": 4,
+      "kind": "wind",
+      "name": "Südwind"
+    },
+    {
+      "id": "wind-west",
+      "group": "honors",
+      "copies": 4,
+      "kind": "wind",
+      "name": "Westwind"
+    },
+    {
+      "id": "dragon-red",
+      "group": "honors",
+      "copies": 4,
+      "kind": "dragon",
+      "name": "Roter Drache"
+    },
+    {
+      "id": "dragon-green",
+      "group": "honors",
+      "copies": 4,
+      "kind": "dragon",
+      "name": "Grüner Drache"
+    },
+    {
+      "id": "dragon-white",
+      "group": "honors",
+      "copies": 4,
+      "kind": "dragon",
+      "name": "Weißer Drache"
+    },
+    {
+      "id": "flower-plum",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 1,
+      "kind": "flower",
+      "name": "Pflaumenblüte"
+    },
+    {
+      "id": "flower-orchid",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 2,
+      "kind": "flower",
+      "name": "Orchidee"
+    },
+    {
+      "id": "flower-chrysanthemum",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 3,
+      "kind": "flower",
+      "name": "Chrysantheme"
+    },
+    {
+      "id": "flower-bamboo",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 4,
+      "kind": "flower",
+      "name": "Bambuszweig"
+    },
+    {
+      "id": "season-spring",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 1,
+      "kind": "season",
+      "name": "Frühling"
+    },
+    {
+      "id": "season-summer",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 2,
+      "kind": "season",
+      "name": "Sommer"
+    },
+    {
+      "id": "season-autumn",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 3,
+      "kind": "season",
+      "name": "Herbst"
+    },
+    {
+      "id": "season-winter",
+      "group": "bonus",
+      "copies": 1,
+      "rank": 4,
+      "kind": "season",
+      "name": "Winter"
+    }
+  ],
+  "tiles": [
+    {
+      "id": "bamboo-1-1",
+      "designId": "bamboo-1",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-1-2",
+      "designId": "bamboo-1",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-1-3",
+      "designId": "bamboo-1",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-1-4",
+      "designId": "bamboo-1",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-2-1",
+      "designId": "bamboo-2",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-2-2",
+      "designId": "bamboo-2",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-2-3",
+      "designId": "bamboo-2",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-2-4",
+      "designId": "bamboo-2",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-3-1",
+      "designId": "bamboo-3",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-3-2",
+      "designId": "bamboo-3",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-3-3",
+      "designId": "bamboo-3",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-3-4",
+      "designId": "bamboo-3",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-4-1",
+      "designId": "bamboo-4",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-4-2",
+      "designId": "bamboo-4",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-4-3",
+      "designId": "bamboo-4",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-4-4",
+      "designId": "bamboo-4",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-5-1",
+      "designId": "bamboo-5",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-5-2",
+      "designId": "bamboo-5",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-5-3",
+      "designId": "bamboo-5",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-5-4",
+      "designId": "bamboo-5",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-6-1",
+      "designId": "bamboo-6",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-6-2",
+      "designId": "bamboo-6",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-6-3",
+      "designId": "bamboo-6",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-6-4",
+      "designId": "bamboo-6",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-7-1",
+      "designId": "bamboo-7",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-7-2",
+      "designId": "bamboo-7",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-7-3",
+      "designId": "bamboo-7",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-7-4",
+      "designId": "bamboo-7",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-8-1",
+      "designId": "bamboo-8",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-8-2",
+      "designId": "bamboo-8",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-8-3",
+      "designId": "bamboo-8",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-8-4",
+      "designId": "bamboo-8",
+      "copy": 4
+    },
+    {
+      "id": "bamboo-9-1",
+      "designId": "bamboo-9",
+      "copy": 1
+    },
+    {
+      "id": "bamboo-9-2",
+      "designId": "bamboo-9",
+      "copy": 2
+    },
+    {
+      "id": "bamboo-9-3",
+      "designId": "bamboo-9",
+      "copy": 3
+    },
+    {
+      "id": "bamboo-9-4",
+      "designId": "bamboo-9",
+      "copy": 4
+    },
+    {
+      "id": "circles-1-1",
+      "designId": "circles-1",
+      "copy": 1
+    },
+    {
+      "id": "circles-1-2",
+      "designId": "circles-1",
+      "copy": 2
+    },
+    {
+      "id": "circles-1-3",
+      "designId": "circles-1",
+      "copy": 3
+    },
+    {
+      "id": "circles-1-4",
+      "designId": "circles-1",
+      "copy": 4
+    },
+    {
+      "id": "circles-2-1",
+      "designId": "circles-2",
+      "copy": 1
+    },
+    {
+      "id": "circles-2-2",
+      "designId": "circles-2",
+      "copy": 2
+    },
+    {
+      "id": "circles-2-3",
+      "designId": "circles-2",
+      "copy": 3
+    },
+    {
+      "id": "circles-2-4",
+      "designId": "circles-2",
+      "copy": 4
+    },
+    {
+      "id": "circles-3-1",
+      "designId": "circles-3",
+      "copy": 1
+    },
+    {
+      "id": "circles-3-2",
+      "designId": "circles-3",
+      "copy": 2
+    },
+    {
+      "id": "circles-3-3",
+      "designId": "circles-3",
+      "copy": 3
+    },
+    {
+      "id": "circles-3-4",
+      "designId": "circles-3",
+      "copy": 4
+    },
+    {
+      "id": "circles-4-1",
+      "designId": "circles-4",
+      "copy": 1
+    },
+    {
+      "id": "circles-4-2",
+      "designId": "circles-4",
+      "copy": 2
+    },
+    {
+      "id": "circles-4-3",
+      "designId": "circles-4",
+      "copy": 3
+    },
+    {
+      "id": "circles-4-4",
+      "designId": "circles-4",
+      "copy": 4
+    },
+    {
+      "id": "circles-5-1",
+      "designId": "circles-5",
+      "copy": 1
+    },
+    {
+      "id": "circles-5-2",
+      "designId": "circles-5",
+      "copy": 2
+    },
+    {
+      "id": "circles-5-3",
+      "designId": "circles-5",
+      "copy": 3
+    },
+    {
+      "id": "circles-5-4",
+      "designId": "circles-5",
+      "copy": 4
+    },
+    {
+      "id": "circles-6-1",
+      "designId": "circles-6",
+      "copy": 1
+    },
+    {
+      "id": "circles-6-2",
+      "designId": "circles-6",
+      "copy": 2
+    },
+    {
+      "id": "circles-6-3",
+      "designId": "circles-6",
+      "copy": 3
+    },
+    {
+      "id": "circles-6-4",
+      "designId": "circles-6",
+      "copy": 4
+    },
+    {
+      "id": "circles-7-1",
+      "designId": "circles-7",
+      "copy": 1
+    },
+    {
+      "id": "circles-7-2",
+      "designId": "circles-7",
+      "copy": 2
+    },
+    {
+      "id": "circles-7-3",
+      "designId": "circles-7",
+      "copy": 3
+    },
+    {
+      "id": "circles-7-4",
+      "designId": "circles-7",
+      "copy": 4
+    },
+    {
+      "id": "circles-8-1",
+      "designId": "circles-8",
+      "copy": 1
+    },
+    {
+      "id": "circles-8-2",
+      "designId": "circles-8",
+      "copy": 2
+    },
+    {
+      "id": "circles-8-3",
+      "designId": "circles-8",
+      "copy": 3
+    },
+    {
+      "id": "circles-8-4",
+      "designId": "circles-8",
+      "copy": 4
+    },
+    {
+      "id": "circles-9-1",
+      "designId": "circles-9",
+      "copy": 1
+    },
+    {
+      "id": "circles-9-2",
+      "designId": "circles-9",
+      "copy": 2
+    },
+    {
+      "id": "circles-9-3",
+      "designId": "circles-9",
+      "copy": 3
+    },
+    {
+      "id": "circles-9-4",
+      "designId": "circles-9",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-1-1",
+      "designId": "scrolls-1",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-1-2",
+      "designId": "scrolls-1",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-1-3",
+      "designId": "scrolls-1",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-1-4",
+      "designId": "scrolls-1",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-2-1",
+      "designId": "scrolls-2",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-2-2",
+      "designId": "scrolls-2",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-2-3",
+      "designId": "scrolls-2",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-2-4",
+      "designId": "scrolls-2",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-3-1",
+      "designId": "scrolls-3",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-3-2",
+      "designId": "scrolls-3",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-3-3",
+      "designId": "scrolls-3",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-3-4",
+      "designId": "scrolls-3",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-4-1",
+      "designId": "scrolls-4",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-4-2",
+      "designId": "scrolls-4",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-4-3",
+      "designId": "scrolls-4",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-4-4",
+      "designId": "scrolls-4",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-5-1",
+      "designId": "scrolls-5",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-5-2",
+      "designId": "scrolls-5",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-5-3",
+      "designId": "scrolls-5",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-5-4",
+      "designId": "scrolls-5",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-6-1",
+      "designId": "scrolls-6",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-6-2",
+      "designId": "scrolls-6",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-6-3",
+      "designId": "scrolls-6",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-6-4",
+      "designId": "scrolls-6",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-7-1",
+      "designId": "scrolls-7",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-7-2",
+      "designId": "scrolls-7",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-7-3",
+      "designId": "scrolls-7",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-7-4",
+      "designId": "scrolls-7",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-8-1",
+      "designId": "scrolls-8",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-8-2",
+      "designId": "scrolls-8",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-8-3",
+      "designId": "scrolls-8",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-8-4",
+      "designId": "scrolls-8",
+      "copy": 4
+    },
+    {
+      "id": "scrolls-9-1",
+      "designId": "scrolls-9",
+      "copy": 1
+    },
+    {
+      "id": "scrolls-9-2",
+      "designId": "scrolls-9",
+      "copy": 2
+    },
+    {
+      "id": "scrolls-9-3",
+      "designId": "scrolls-9",
+      "copy": 3
+    },
+    {
+      "id": "scrolls-9-4",
+      "designId": "scrolls-9",
+      "copy": 4
+    },
+    {
+      "id": "wind-north-1",
+      "designId": "wind-north",
+      "copy": 1
+    },
+    {
+      "id": "wind-north-2",
+      "designId": "wind-north",
+      "copy": 2
+    },
+    {
+      "id": "wind-north-3",
+      "designId": "wind-north",
+      "copy": 3
+    },
+    {
+      "id": "wind-north-4",
+      "designId": "wind-north",
+      "copy": 4
+    },
+    {
+      "id": "wind-east-1",
+      "designId": "wind-east",
+      "copy": 1
+    },
+    {
+      "id": "wind-east-2",
+      "designId": "wind-east",
+      "copy": 2
+    },
+    {
+      "id": "wind-east-3",
+      "designId": "wind-east",
+      "copy": 3
+    },
+    {
+      "id": "wind-east-4",
+      "designId": "wind-east",
+      "copy": 4
+    },
+    {
+      "id": "wind-south-1",
+      "designId": "wind-south",
+      "copy": 1
+    },
+    {
+      "id": "wind-south-2",
+      "designId": "wind-south",
+      "copy": 2
+    },
+    {
+      "id": "wind-south-3",
+      "designId": "wind-south",
+      "copy": 3
+    },
+    {
+      "id": "wind-south-4",
+      "designId": "wind-south",
+      "copy": 4
+    },
+    {
+      "id": "wind-west-1",
+      "designId": "wind-west",
+      "copy": 1
+    },
+    {
+      "id": "wind-west-2",
+      "designId": "wind-west",
+      "copy": 2
+    },
+    {
+      "id": "wind-west-3",
+      "designId": "wind-west",
+      "copy": 3
+    },
+    {
+      "id": "wind-west-4",
+      "designId": "wind-west",
+      "copy": 4
+    },
+    {
+      "id": "dragon-red-1",
+      "designId": "dragon-red",
+      "copy": 1
+    },
+    {
+      "id": "dragon-red-2",
+      "designId": "dragon-red",
+      "copy": 2
+    },
+    {
+      "id": "dragon-red-3",
+      "designId": "dragon-red",
+      "copy": 3
+    },
+    {
+      "id": "dragon-red-4",
+      "designId": "dragon-red",
+      "copy": 4
+    },
+    {
+      "id": "dragon-green-1",
+      "designId": "dragon-green",
+      "copy": 1
+    },
+    {
+      "id": "dragon-green-2",
+      "designId": "dragon-green",
+      "copy": 2
+    },
+    {
+      "id": "dragon-green-3",
+      "designId": "dragon-green",
+      "copy": 3
+    },
+    {
+      "id": "dragon-green-4",
+      "designId": "dragon-green",
+      "copy": 4
+    },
+    {
+      "id": "dragon-white-1",
+      "designId": "dragon-white",
+      "copy": 1
+    },
+    {
+      "id": "dragon-white-2",
+      "designId": "dragon-white",
+      "copy": 2
+    },
+    {
+      "id": "dragon-white-3",
+      "designId": "dragon-white",
+      "copy": 3
+    },
+    {
+      "id": "dragon-white-4",
+      "designId": "dragon-white",
+      "copy": 4
+    },
+    {
+      "id": "flower-plum-1",
+      "designId": "flower-plum",
+      "copy": 1
+    },
+    {
+      "id": "flower-orchid-1",
+      "designId": "flower-orchid",
+      "copy": 1
+    },
+    {
+      "id": "flower-chrysanthemum-1",
+      "designId": "flower-chrysanthemum",
+      "copy": 1
+    },
+    {
+      "id": "flower-bamboo-1",
+      "designId": "flower-bamboo",
+      "copy": 1
+    },
+    {
+      "id": "season-spring-1",
+      "designId": "season-spring",
+      "copy": 1
+    },
+    {
+      "id": "season-summer-1",
+      "designId": "season-summer",
+      "copy": 1
+    },
+    {
+      "id": "season-autumn-1",
+      "designId": "season-autumn",
+      "copy": 1
+    },
+    {
+      "id": "season-winter-1",
+      "designId": "season-winter",
+      "copy": 1
+    }
+  ],
+  "variants": [
+    {
+      "id": "realistic",
+      "name": "Realistisch gemalte Fantasy",
+      "tileCount": 144,
+      "fronts": {
+        "bamboo-1": "assets/realistic/bamboo-1.webp",
+        "bamboo-2": "assets/realistic/bamboo-2.webp",
+        "bamboo-3": "assets/realistic/bamboo-3.webp",
+        "bamboo-4": "assets/realistic/bamboo-4.webp",
+        "bamboo-5": "assets/realistic/bamboo-5.webp",
+        "bamboo-6": "assets/realistic/bamboo-6.webp",
+        "bamboo-7": "assets/realistic/bamboo-7.webp",
+        "bamboo-8": "assets/realistic/bamboo-8.webp",
+        "bamboo-9": "assets/realistic/bamboo-9.webp",
+        "circles-1": "assets/realistic/circles-1.webp",
+        "circles-2": "assets/realistic/circles-2.webp",
+        "circles-3": "assets/realistic/circles-3.webp",
+        "circles-4": "assets/realistic/circles-4.webp",
+        "circles-5": "assets/realistic/circles-5.webp",
+        "circles-6": "assets/realistic/circles-6.webp",
+        "circles-7": "assets/realistic/circles-7.webp",
+        "circles-8": "assets/realistic/circles-8.webp",
+        "circles-9": "assets/realistic/circles-9.webp",
+        "scrolls-1": "assets/realistic/scrolls-1.webp",
+        "scrolls-2": "assets/realistic/scrolls-2.webp",
+        "scrolls-3": "assets/realistic/scrolls-3.webp",
+        "scrolls-4": "assets/realistic/scrolls-4.webp",
+        "scrolls-5": "assets/realistic/scrolls-5.webp",
+        "scrolls-6": "assets/realistic/scrolls-6.webp",
+        "scrolls-7": "assets/realistic/scrolls-7.webp",
+        "scrolls-8": "assets/realistic/scrolls-8.webp",
+        "scrolls-9": "assets/realistic/scrolls-9.webp",
+        "wind-north": "assets/realistic/wind-north.webp",
+        "wind-east": "assets/realistic/wind-east.webp",
+        "wind-south": "assets/realistic/wind-south.webp",
+        "wind-west": "assets/realistic/wind-west.webp",
+        "dragon-red": "assets/realistic/dragon-red.webp",
+        "dragon-green": "assets/realistic/dragon-green.webp",
+        "dragon-white": "assets/realistic/dragon-white.webp",
+        "flower-plum": "assets/realistic/flower-plum.webp",
+        "flower-orchid": "assets/realistic/flower-orchid.webp",
+        "flower-chrysanthemum": "assets/realistic/flower-chrysanthemum.webp",
+        "flower-bamboo": "assets/realistic/flower-bamboo.webp",
+        "season-spring": "assets/realistic/season-spring.webp",
+        "season-summer": "assets/realistic/season-summer.webp",
+        "season-autumn": "assets/realistic/season-autumn.webp",
+        "season-winter": "assets/realistic/season-winter.webp"
+      },
+      "back": "assets/backs/realistic.webp",
+      "foundry": {
+        "pack": "dracima-mahjong.mahjong-sets",
+        "uuid": "Compendium.dracima-mahjong.mahjong-sets.Cards.ddbfa3b301cd54b3"
+      }
+    },
+    {
+      "id": "illuminated",
+      "name": "Mittelalterliche Buchmalerei",
+      "tileCount": 144,
+      "fronts": {
+        "bamboo-1": "assets/illuminated/bamboo-1.webp",
+        "bamboo-2": "assets/illuminated/bamboo-2.webp",
+        "bamboo-3": "assets/illuminated/bamboo-3.webp",
+        "bamboo-4": "assets/illuminated/bamboo-4.webp",
+        "bamboo-5": "assets/illuminated/bamboo-5.webp",
+        "bamboo-6": "assets/illuminated/bamboo-6.webp",
+        "bamboo-7": "assets/illuminated/bamboo-7.webp",
+        "bamboo-8": "assets/illuminated/bamboo-8.webp",
+        "bamboo-9": "assets/illuminated/bamboo-9.webp",
+        "circles-1": "assets/illuminated/circles-1.webp",
+        "circles-2": "assets/illuminated/circles-2.webp",
+        "circles-3": "assets/illuminated/circles-3.webp",
+        "circles-4": "assets/illuminated/circles-4.webp",
+        "circles-5": "assets/illuminated/circles-5.webp",
+        "circles-6": "assets/illuminated/circles-6.webp",
+        "circles-7": "assets/illuminated/circles-7.webp",
+        "circles-8": "assets/illuminated/circles-8.webp",
+        "circles-9": "assets/illuminated/circles-9.webp",
+        "scrolls-1": "assets/illuminated/scrolls-1.webp",
+        "scrolls-2": "assets/illuminated/scrolls-2.webp",
+        "scrolls-3": "assets/illuminated/scrolls-3.webp",
+        "scrolls-4": "assets/illuminated/scrolls-4.webp",
+        "scrolls-5": "assets/illuminated/scrolls-5.webp",
+        "scrolls-6": "assets/illuminated/scrolls-6.webp",
+        "scrolls-7": "assets/illuminated/scrolls-7.webp",
+        "scrolls-8": "assets/illuminated/scrolls-8.webp",
+        "scrolls-9": "assets/illuminated/scrolls-9.webp",
+        "wind-north": "assets/illuminated/wind-north.webp",
+        "wind-east": "assets/illuminated/wind-east.webp",
+        "wind-south": "assets/illuminated/wind-south.webp",
+        "wind-west": "assets/illuminated/wind-west.webp",
+        "dragon-red": "assets/illuminated/dragon-red.webp",
+        "dragon-green": "assets/illuminated/dragon-green.webp",
+        "dragon-white": "assets/illuminated/dragon-white.webp",
+        "flower-plum": "assets/illuminated/flower-plum.webp",
+        "flower-orchid": "assets/illuminated/flower-orchid.webp",
+        "flower-chrysanthemum": "assets/illuminated/flower-chrysanthemum.webp",
+        "flower-bamboo": "assets/illuminated/flower-bamboo.webp",
+        "season-spring": "assets/illuminated/season-spring.webp",
+        "season-summer": "assets/illuminated/season-summer.webp",
+        "season-autumn": "assets/illuminated/season-autumn.webp",
+        "season-winter": "assets/illuminated/season-winter.webp"
+      },
+      "back": "assets/backs/illuminated.webp",
+      "foundry": {
+        "pack": "dracima-mahjong.mahjong-sets",
+        "uuid": "Compendium.dracima-mahjong.mahjong-sets.Cards.941215d9807e1f64"
+      }
+    },
+    {
+      "id": "stylized",
+      "name": "Stilisierte Illustration",
+      "tileCount": 144,
+      "fronts": {
+        "bamboo-1": "assets/stylized/bamboo-1.webp",
+        "bamboo-2": "assets/stylized/bamboo-2.webp",
+        "bamboo-3": "assets/stylized/bamboo-3.webp",
+        "bamboo-4": "assets/stylized/bamboo-4.webp",
+        "bamboo-5": "assets/stylized/bamboo-5.webp",
+        "bamboo-6": "assets/stylized/bamboo-6.webp",
+        "bamboo-7": "assets/stylized/bamboo-7.webp",
+        "bamboo-8": "assets/stylized/bamboo-8.webp",
+        "bamboo-9": "assets/stylized/bamboo-9.webp",
+        "circles-1": "assets/stylized/circles-1.webp",
+        "circles-2": "assets/stylized/circles-2.webp",
+        "circles-3": "assets/stylized/circles-3.webp",
+        "circles-4": "assets/stylized/circles-4.webp",
+        "circles-5": "assets/stylized/circles-5.webp",
+        "circles-6": "assets/stylized/circles-6.webp",
+        "circles-7": "assets/stylized/circles-7.webp",
+        "circles-8": "assets/stylized/circles-8.webp",
+        "circles-9": "assets/stylized/circles-9.webp",
+        "scrolls-1": "assets/stylized/scrolls-1.webp",
+        "scrolls-2": "assets/stylized/scrolls-2.webp",
+        "scrolls-3": "assets/stylized/scrolls-3.webp",
+        "scrolls-4": "assets/stylized/scrolls-4.webp",
+        "scrolls-5": "assets/stylized/scrolls-5.webp",
+        "scrolls-6": "assets/stylized/scrolls-6.webp",
+        "scrolls-7": "assets/stylized/scrolls-7.webp",
+        "scrolls-8": "assets/stylized/scrolls-8.webp",
+        "scrolls-9": "assets/stylized/scrolls-9.webp",
+        "wind-north": "assets/stylized/wind-north.webp",
+        "wind-east": "assets/stylized/wind-east.webp",
+        "wind-south": "assets/stylized/wind-south.webp",
+        "wind-west": "assets/stylized/wind-west.webp",
+        "dragon-red": "assets/stylized/dragon-red.webp",
+        "dragon-green": "assets/stylized/dragon-green.webp",
+        "dragon-white": "assets/stylized/dragon-white.webp",
+        "flower-plum": "assets/stylized/flower-plum.webp",
+        "flower-orchid": "assets/stylized/flower-orchid.webp",
+        "flower-chrysanthemum": "assets/stylized/flower-chrysanthemum.webp",
+        "flower-bamboo": "assets/stylized/flower-bamboo.webp",
+        "season-spring": "assets/stylized/season-spring.webp",
+        "season-summer": "assets/stylized/season-summer.webp",
+        "season-autumn": "assets/stylized/season-autumn.webp",
+        "season-winter": "assets/stylized/season-winter.webp"
+      },
+      "back": "assets/backs/stylized.webp",
+      "foundry": {
+        "pack": "dracima-mahjong.mahjong-sets",
+        "uuid": "Compendium.dracima-mahjong.mahjong-sets.Cards.4695b05a9f61b3c7"
+      }
+    }
+  ]
+}

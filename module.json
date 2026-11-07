@@ -1,0 +1,32 @@
+{
+  "id": "dracima-mahjong",
+  "title": "Dracima Mahjong - Tile Sets",
+  "version": "0.1.0",
+  "description": "<p lang=\"en\">AI-generated Mahjong tiles in three art styles. Each set contains 144 tiles. Enable the module and import a set from the compendium into Cards.</p><p lang=\"de\">KI-generierte Mahjong-Steine in drei Bildstilen mit je 144 Steinen. Nach der Aktivierung den gewünschten Satz aus dem Kompendium in die Kartenverwaltung importieren.</p>",
+  "authors": [
+    {
+      "name": "Daniel Brune"
+    },
+    {
+      "name": "ChatGPT/Codex (KI-Unterstützung)"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14"
+  },
+  "packs": [
+    {
+      "name": "mahjong-sets",
+      "label": "Dracima-Mahjong · Drei Spielsteinsätze",
+      "type": "Cards",
+      "path": "packs/mahjong-sets"
+    }
+  ],
+  "readme": "README.md",
+  "flags": {
+    "dracima-mahjong": {
+      "catalog": "data/catalog.json",
+      "schemaVersion": 1
+    }
+  }
+}
