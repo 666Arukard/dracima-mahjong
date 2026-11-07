@@ -5,6 +5,10 @@ Version 0.1.0 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung)
 Drei importierbare Kartenstapel mit jeweils 144 Mahjong-Steinen: 108 Zahlensteine,
 28 Ehrensteine und 8 Bonussteine. Die WebP-Grafiken sind KI-generiert.
 
+Für Installation und Updates über Foundrys Modulverwaltung: [Manifest](https://github.com/666Arukard/dracima-mahjong/releases/latest/download/module.json).
+
+Manuelle Installation:
+
 1. ZIP entpacken und den enthaltenen Ordner `dracima-mahjong` in
    `Data/modules/` des Foundry-Benutzerdatenordners kopieren. Bei einem Hostingdienst
    mit ZIP-Upload dessen Upload-Funktion verwenden.
@@ -31,9 +35,7 @@ Bei aktiviertem Modul ist der Katalog über
 
 ## Herkunft und Weitergabe
 
-Die Grafiken stammen aus den drei Dracima-Mahjong-Bildsätzen. Dieses Paket
-wurde für Daniels Nutzung erstellt. Eine öffentliche Weitergabelizenz
-ist in dieser Ausgabe nicht festgelegt.
+Nichtkommerzielle Nutzung; Änderungen und Weitergabe mit Namensnennung Daniel Brune. Details: [Nutzungsbedingungen](LICENSE.md).
 
 Foundry-Referenzen: https://foundryvtt.com/article/module-development/
 und https://foundryvtt.com/api/v14/classes/foundry.documents.Cards.html
