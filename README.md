@@ -1,6 +1,6 @@
 # Dracima Mahjong - Tile Sets
 
-Version 0.1.1 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung)
+Version 0.1.2 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung)
 
 Drei importierbare Kartenstapel mit jeweils 144 Mahjong-Steinen: 108 Zahlensteine,
 28 Ehrensteine und 8 Bonussteine. Die WebP-Grafiken sind KI-generiert.
@@ -21,7 +21,7 @@ keine Mahjong-Regeln, keine automatische Spielwand und keine TavernGames-Abhäng
 Es verändert vorhandene Weltstapel nicht.
 
 Foundry 14.370 ist die aktuelle Zielversion. Mindestversion ist 14; es gibt keine obere Versionsgrenze. Das Archiv und das native Kompendium wurden
-technisch geprüft. Ein Foundry-Live-Test steht aus; deshalb gibt es noch keinen Eintrag für die verifizierte Version.
+technisch geprüft. Das Manifest führt Foundry 14.370 auf Grundlage der vom Nutzer bestätigten Tests als verifiziert.
 
 ## Metadaten
 

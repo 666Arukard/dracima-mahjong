@@ -4,5 +4,12 @@
   "tilesPerStyle": 144,
   "webpFiles": 129,
   "foundryCliRoundTrip": true,
-  "foundryLiveTested": false
+  "foundryLiveTested": false,
+  "latestUserTest": {
+    "foundryVersion": "14.370",
+    "reportedOn": "2026-11-13",
+    "reportedBy": "Daniel Brune",
+    "compatibilityConfirmed": true,
+    "individualStepsReported": false
+  }
 }

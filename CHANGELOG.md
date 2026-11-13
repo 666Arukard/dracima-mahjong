@@ -1,3 +1,8 @@
+# 0.1.2 — 13. November 2026
+
+- Foundry VTT 14.370 als verifiziert eingetragen. Daniel Brune bestätigt erfolgreiche Kompatibilitätstests auf Foundry 14.370. Einzelne Testschritte wurden nicht separat protokolliert.
+- Mindestversion 14 ohne Obergrenze; Inhalte und Manifest-Adresse unverändert.
+
 # 0.1.1 — 7. November 2026
 
 - Foundry 14.370 als aktuelles Ziel dokumentiert. Mindestversion 14, ohne Obergrenze.
